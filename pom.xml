@@ -45,7 +45,7 @@
         <url>http://13.127.67.19:8081/artifactory/suresh</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>central</id>
         <name>51708afbf5e2-snapshots</name>
         <url>http://13.127.67.19:8081/artifactory/suresh</url>
     </snapshotRepository>
